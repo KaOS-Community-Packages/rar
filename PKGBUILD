@@ -8,7 +8,7 @@ license=('custom')
 depends=('gcc-libs')
 backup=('etc/rarfiles.lst')
 source=("http://www.rarlab.com/rar/rarlinux-x64-$pkgver.tar.gz")
-md5sums=('6dd48f8868cadb633a67c6e8ecbb293a')
+md5sums=('529000f404e123c790f3a516f06ba6d1')
  
 package() {
 cd ${srcdir}/rar
