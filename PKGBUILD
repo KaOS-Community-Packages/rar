@@ -1,5 +1,5 @@
 pkgname=rar
-pkgver=5.2.1
+pkgver=5.3.0
 pkgrel=1
 pkgdesc="A command-line port of the rar compression utility"
 arch=('x86_64')
@@ -8,7 +8,7 @@ license=('custom')
 depends=('gcc-libs')
 backup=('etc/rarfiles.lst')
 source=("http://www.rarlab.com/rar/rarlinux-x64-$pkgver.tar.gz")
-md5sums=('7c7139c4405f3277eaad1341f9bf4f8d')
+md5sums=('4add9475873193174fcea70da55ee1c3')
  
 package() {
 cd ${srcdir}/rar
