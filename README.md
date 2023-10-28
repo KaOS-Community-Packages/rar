@@ -1,14 +1,13 @@
-rar
-===
+# RAR (Rar for Linux)
 
-A command-line port of the rar compression utility
+### [HOME](https://www.rarlab.com) | [SOURCE](https://www.rarlab.com/rar/rarlinux-x64-624.tar.gz)
 
-http://www.rarlab.com/
+A command-line archiving utility of the rar compression format.
 
-Download PKGBUILD and run makepkg -si in the package directory (with Dolphin and F4):
+WinRAR is a powerful archive manager. It can backup your data and reduce the size of email attachments, open and unpack RAR, ZIP and other files downloaded from Internet, create new archives in RAR and ZIP file format. You can try WinRAR before buy, its trial version is available in downloads.
 
-To install using kcp, in a terminal:
+#### Install:
 
 ```
-$ kcp -i rar
+kcp -i rar
 ```
